@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm <i><b><a href="https://github.com/HAKv1N/" target="_blank">Egor</a></i></b>
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" height="32"/></h1>
 <h3 align="center">Unity developer (Intern+/Junior)</h3>
 
 <h3 align="left"><b>Contacts:</b></h3>
@@ -22,4 +22,5 @@
 <h3>
 <a href="https://unity.com/"><img src = "https://github.com/simple-icons/simple-icons/blob/98ae3458a758c08c9fb68fc11e3435acf7020528/icons/unity.svg#L1" height="48" width="48"/></a>
 <a href="https://code.visualstudio.com/"><img src = "https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" height="48" width="48"/></a>
+<a href="https://github.com/apps/desktop"><img src = "https://upload.wikimedia.org/wikipedia/commons/a/ae/Github-desktop-logo-symbol.svg" height="48" width="48"/></a>
 </h3>
