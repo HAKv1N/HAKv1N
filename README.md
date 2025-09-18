@@ -15,6 +15,7 @@
 
 <h3>
 <a href="https://dotnet.microsoft.com/en-us/languages/csharp"><img src = "https://upload.wikimedia.org/wikipedia/commons/f/ff/C-Sharp_Logo.svg" height="48" width="48"/></a>
+<a href="https://1c.ru/"><img src = "https://papik.pro/uploads/posts/2021-11/1636121849_31-papik-pro-p-logotip-1s-foto-35.png" height="48" width="48"/></a>
 </h3>
 
 <h3 align="left"><b>Tools:</b></h3>
