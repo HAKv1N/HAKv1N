@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm <i><b><a href="https://github.com/HAKv1N/" target="_blank">Egor</a></i></b>
+<h1 align="center"><i><b><a href="https://github.com/HAKv1N/" target="_blank">HAKv1N</a></i></b>
 <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" height="32"/></h1>
 <h3 align="center">Unity developer (Intern+/Junior)</h3>
 
